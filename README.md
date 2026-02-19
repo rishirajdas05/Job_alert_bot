@@ -23,11 +23,11 @@ Configure keywords, location, sources, and alert interval directly from Telegram
 ## 🗂️ Project Structure
 
 Job_alert_bot/
-├─ bot.py
-├─ requirements.txt
-├─ .env.example
-├─ .gitignore
-└─ jobs.db (auto created, not committed)
+bot.py
+requirements.txt
+.env.example
+.gitignore
+jobs.db (auto created, not committed)
 
 
 ---
